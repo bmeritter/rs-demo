@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 
-import '../style/demo.less';
+import '../../style/demo.less';
 import Header from './Header';
 import LeftNav from './LeftNav';
 import Breadcrumb from './Breadcrumb';
